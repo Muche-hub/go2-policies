@@ -12,3 +12,5 @@ How to run (Go2 EDU + unitree_rl_lab go2_ctrl):
 5. Left stick = forward/back and sideways, right stick = turn.
 
 FLAT FLOOR ONLY. Use a harness for the first test.
+
+Also in this repo: bound/ = bound gait policy (see bound/README.md).
